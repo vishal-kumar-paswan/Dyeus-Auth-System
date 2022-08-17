@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1060341231975-o9s1i1c4c3hfkt4d60g2jdph300f002l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1060341231975-o9s1i1c4c3hfkt4d60g2jdph300f002l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1060341231975-k7i3g8hn4vqml8j2vsfk2ae5na7ofelg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADvcuQdIKJ-qkLqgdcqHIzLM3o5P8itus</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1060341231975</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dyeusAuthenticationSystem</string>
+	<key>PROJECT_ID</key>
+	<string>dyeus-authentication-system</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dyeus-authentication-system.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1060341231975:ios:6620368aa10be769f7bfc2</string>
+</dict>
+</plist>

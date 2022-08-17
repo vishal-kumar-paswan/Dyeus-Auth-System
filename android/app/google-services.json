@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1060341231975",
+    "project_id": "dyeus-authentication-system",
+    "storage_bucket": "dyeus-authentication-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060341231975:android:4a8d93b6b31e2583f7bfc2",
+        "android_client_info": {
+          "package_name": "com.dyeus.authentication_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060341231975-k7i3g8hn4vqml8j2vsfk2ae5na7ofelg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dyeus.authentication_system",
+            "certificate_hash": "07e48c729e81eb3005e4765b90825254d3ee4548"
+          }
+        },
+        {
+          "client_id": "1060341231975-2bf8k0elofgijr9498m3umfab7cuhofh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsCU4BgX2sBeVoX_o5aux0f4M149ibsZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060341231975-2bf8k0elofgijr9498m3umfab7cuhofh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060341231975-o9s1i1c4c3hfkt4d60g2jdph300f002l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dyeusAuthenticationSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
